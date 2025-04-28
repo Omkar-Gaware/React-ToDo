@@ -1,5 +1,7 @@
 # Todo App - Refactoring Plan & README
 
+![image](https://github.com/user-attachments/assets/5bfcd9cc-0f52-4821-9fa3-7fb1b2daf861)
+
 ## 📋 Refactoring Plan
 
 ### 1. Code Structure & Naming Conventions
